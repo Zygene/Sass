@@ -33,6 +33,70 @@
                 </div>
             </div>
         </header>
+        <div class="wrapper">
+            <div id="jumbotron">
+                <h1>Lorem Ipsum</h1>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Commodi dolores aliquid corporis eos alias ad assumenda iusto non minus cumque culpa omnis quia incidunt magnam quas, harum quibusdam! Mollitia, architecto.</p>
+                <a href="#" id="contactez">Contactez-nous</a>
+                <a href="#" id="voir">Voir les établissements</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="slide" id="eta">
+        <div class="wrapper">
+            <h2>Etablissements</h2>
+            <div class="schools">
+                <div class="card">
+                    <img src="https://picsum.photos/400/300" alt="mon image">
+                    <div class="info">
+                        <h3>School Name</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nihil, facere nostrum quasi voluptatibus delectus et unde ex officiis impedit inventore temporibus voluptates suscipit recusandae consequatur repellendus alias quas expedita ab perferendis atque magni? Optio iure, quo dignissimos repudiandae perferendis qui accusamus quis provident repellendus tempora molestiae nobis iste officiis ad natus facere perspiciatis quam quia voluptatum aspernatur totam distinctio.</p>
+                        <a href="#" class="savoir">En savoir plus</a>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="https://picsum.photos/400/300" alt="mon image">
+                    <div class="info">
+                        <h3>School Name</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nihil, facere nostrum quasi voluptatibus delectus et unde ex officiis impedit inventore temporibus voluptates suscipit recusandae consequatur repellendus alias quas expedita ab perferendis atque magni? Optio iure, quo dignissimos repudiandae perferendis qui accusamus quis provident repellendus tempora molestiae nobis iste officiis ad natus facere perspiciatis quam quia voluptatum aspernatur totam distinctio.</p>
+                        <a href="#" class="savoir">En savoir plus</a>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="https://picsum.photos/400/300" alt="mon image">
+                    <div class="info">
+                        <h3>School Name</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nihil, facere nostrum quasi voluptatibus delectus et unde ex officiis impedit inventore temporibus voluptates suscipit recusandae consequatur repellendus alias quas expedita ab perferendis atque magni? Optio iure, quo dignissimos repudiandae perferendis qui accusamus quis provident repellendus tempora molestiae nobis iste officiis ad natus facere perspiciatis quam quia voluptatum aspernatur totam distinctio.</p>
+                        <a href="#" class="savoir">En savoir plus</a>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="https://picsum.photos/400/300" alt="mon image">
+                    <div class="info">
+                        <h3>School Name</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nihil, facere nostrum quasi voluptatibus delectus et unde ex officiis impedit inventore temporibus voluptates suscipit recusandae consequatur repellendus alias quas expedita ab perferendis atque magni? Optio iure, quo dignissimos repudiandae perferendis qui accusamus quis provident repellendus tempora molestiae nobis iste officiis ad natus facere perspiciatis quam quia voluptatum aspernatur totam distinctio.</p>
+                        <a href="#" class="savoir">En savoir plus</a>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="https://picsum.photos/400/300" alt="mon image">
+                    <div class="info">
+                        <h3>School Name</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nihil, facere nostrum quasi voluptatibus delectus et unde ex officiis impedit inventore temporibus voluptates suscipit recusandae consequatur repellendus alias quas expedita ab perferendis atque magni? Optio iure, quo dignissimos repudiandae perferendis qui accusamus quis provident repellendus tempora molestiae nobis iste officiis ad natus facere perspiciatis quam quia voluptatum aspernatur totam distinctio.</p>
+                        <a href="#" class="savoir">En savoir plus</a>
+                    </div>
+                </div>
+                <div class="card">
+                    <img src="https://picsum.photos/400/300" alt="mon image">
+                    <div class="info">
+                        <h3>School Name</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum nihil, facere nostrum quasi voluptatibus delectus et unde ex officiis impedit inventore temporibus voluptates suscipit recusandae consequatur repellendus alias quas expedita ab perferendis atque magni? Optio iure, quo dignissimos repudiandae perferendis qui accusamus quis provident repellendus tempora molestiae nobis iste officiis ad natus facere perspiciatis quam quia voluptatum aspernatur totam distinctio.</p>
+                        <a href="#" class="savoir">En savoir plus</a>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
 
 </body>
