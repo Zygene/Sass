@@ -99,5 +99,20 @@
         </div>
     </div>
 
+    <div class="slide" id="contact">
+        <div class="gauche">
+            <div class="container">
+                <div class="info">
+                    <h3>Contactez-nous</h3>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro adipisci error suscipit pariatur sapiente nisi corporis vero necessitatibus rem alias!</p>
+                </div>
+                <div class="contact-social">
+                    Social Media
+                </div>
+            </div>
+        </div>
+        <div class="droite"></div>
+    </div>
+
 </body>
 </html>
